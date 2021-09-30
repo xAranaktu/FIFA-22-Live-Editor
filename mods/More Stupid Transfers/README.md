@@ -27,12 +27,15 @@ Basically, this "mod" should increase the transfer activity which means more tra
     - "Overall Difference Per Attempt Transfer"             changed from 4 to 3
     - "Overall Difference Per Attempt Loan"                 changed from 8 to 6
 ```
+
+![](https://i.imgur.com/xsGvlGi.png)
+
 **How to install:**
 ```
 1. Unzip archive
-2. Move the LiveEditorMods folder to root game directory (replace files if needed) <https://i.imgur.com/xsGvlGi.png>
+2. Move the LiveEditorMods folder to root game directory (replace files if needed) 
 3. Run the game & Live Editor
 
 ```
 
-https://i.imgur.com/wcoM2wV.png
+![](https://i.imgur.com/wcoM2wV.png)
