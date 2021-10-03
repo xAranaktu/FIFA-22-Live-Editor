@@ -36,11 +36,8 @@ There is tattoo tab also in players editor, but for 99% it won't work.
     - root\Legacy\data\avatar\avatarcustomizationcfg_tournament_editplayers.JSON
 ```
 
-**Changelog:**
-```
-```
 
-```
+
 **How to install:**
 ```
 1. Unzip archive
