@@ -1,0 +1,8 @@
+v22.1.0.1:
+    - Added "Players Editor"
+    - Added "Teams Editor"
+    - Added "Database Editor"
+    
+
+v22.1.0.0:
+    - Legacy files modding possibility.
