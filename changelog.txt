@@ -1,8 +1,11 @@
+v22.1.0.2:
+    - Added "Generate Miniface" to "Players Editor"
+    - Added "Loan Player" to "Players Editor"
+
 v22.1.0.1:
     - Added "Players Editor"
     - Added "Teams Editor"
     - Added "Database Editor"
-    
 
 v22.1.0.0:
     - Legacy files modding possibility.
