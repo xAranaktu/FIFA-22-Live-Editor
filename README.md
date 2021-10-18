@@ -16,6 +16,13 @@ Check [WIKI](https://github.com/xAranaktu/FIFA-22-Live-Editor/wiki) for Guides a
 
 ***
 
+If you want to download the tool then DONT CLONE THE REPO...
+Get it from releases:
+
+![](https://i.imgur.com/ocPeJiV.png)
+
+***
+
 ![](https://i.imgur.com/SSCMdKs.png)
 ![](https://i.imgur.com/FCbP4mC.png)
 ![](https://i.imgur.com/JFljI3A.png)
