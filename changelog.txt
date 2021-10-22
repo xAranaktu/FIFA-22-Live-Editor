@@ -1,3 +1,8 @@
+v22.1.0.3:
+    - Added FIFA 22 Bodytypecodes
+    - Fixed filtering rows (Fixes terminate loan bug and probably a few others)
+    - Fixed creating transfer & loan offer for player career mode player
+
 v22.1.0.2:
     - Added "Generate Miniface" to "Players Editor"
     - Added "Loan Player" to "Players Editor"
