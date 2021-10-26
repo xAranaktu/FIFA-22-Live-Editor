@@ -1,3 +1,10 @@
+v22.1.0.4:
+    - Added "Manager" to Teams Editor
+    - Editing user team transferbudget in Teams Editor will now also update club finances
+    - Fixed "Team Not Found" that occured for "Rest of World" league teams.
+    - Minifaces can be now generated also outside of Career Mode.
+    - Changed default camera when generating miniface from "Head and Shoulders" to "Head" (the same that were used in FIFA 21)
+
 v22.1.0.3:
     - Added FIFA 22 Bodytypecodes
     - Fixed filtering rows (Fixes terminate loan bug and probably a few others)
