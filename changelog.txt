@@ -1,3 +1,8 @@
+v22.1.0.7:
+    - Importing miniface feature now works in fullscreen mode (replaced nativefiledialog with ImGuiFileDialog)
+    - Root live editor mods folder can now be changed in settings.
+    - Fixed crashes on importing/generating miniface when the target destination didn't exists.
+
 v22.1.0.6:
     - Fixed creating transfer/loan offer for player in player career mode.
 
