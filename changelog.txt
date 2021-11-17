@@ -1,3 +1,8 @@
+v22.1.0.8:
+    - Added "Stats" to Players Editor (Goals, Assists & Clean Sheets)
+    - Fixed width of the actions popup window in Database Editor
+    - Removed unnecessary lua functions hooks
+
 v22.1.0.7:
     - Importing miniface feature now works in fullscreen mode (replaced nativefiledialog with ImGuiFileDialog)
     - Root live editor mods folder can now be changed in settings.
