@@ -1,3 +1,16 @@
+v22.1.0.9:
+    - Added LUA Scripts:
+        - "export_season_stats.lua"
+        - "extend_user_team_players_contracts.lua"
+    - Added LUA functions:
+        - "GetSaveUID"
+        - "GetCompetitionNameByID"
+        - "GetCompetitionNameByObjID"
+        - "GetPlayersStats"
+        - "GetPlayerStats"
+    - Fixed crashes at startup "caused" by Medal recorder
+    - Fixed crashes that occur when the first param passed to "Log" lua function was not a string
+
 v22.1.0.8:
     - Added "Stats" to Players Editor (Goals, Assists & Clean Sheets)
     - Fixed width of the actions popup window in Database Editor
