@@ -1,3 +1,12 @@
+v22.1.1.0:
+    - "Transfer Player", "Loan Player" & "Terminate Loan" functions are now available also outside of Career Mode.
+    - Added button allowing you to copy player name and/or id to clipboard in Players Editor
+    - Added button allowing you to copy team name and/or id to clipboard in Teams Editor
+    - Added LUA functions:
+        - "DeletePlayer"
+        - "CreatePlayer"
+        - "PlayerExists"
+
 v22.1.0.9:
     - Added LUA Scripts:
         - "export_season_stats.lua"
