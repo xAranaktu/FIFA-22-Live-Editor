@@ -1,3 +1,8 @@
+v22.1.1.1:
+    - Fixed detecting player injury if player is seriously injured (till now the tool was only able to recognize light injures)
+    - Fixed crashes when the dcplayernames table got no records
+    - Fixed crashes on problem with reading player form (?)
+
 v22.1.1.0:
     - "Transfer Player", "Loan Player" & "Terminate Loan" functions are now available also outside of Career Mode.
     - Added button allowing you to copy player name and/or id to clipboard in Players Editor
