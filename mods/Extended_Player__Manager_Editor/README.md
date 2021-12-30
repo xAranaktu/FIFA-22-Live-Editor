@@ -1,6 +1,6 @@
 **Extended Player & Manager Editor**
 
-**Mod Version**: 1.0
+**Mod Version**: 1.1
 
 
 ```
