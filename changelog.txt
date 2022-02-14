@@ -1,3 +1,6 @@
+v22.1.1.2:
+    - Added "File Browser" (Legacy files only atm.)
+
 v22.1.1.1:
     - Fixed detecting player injury if player is seriously injured (till now the tool was only able to recognize light injures)
     - Fixed crashes when the dcplayernames table got no records
