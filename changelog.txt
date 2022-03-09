@@ -1,3 +1,7 @@
+v22.1.1.4:
+    - Adding checking transfer ban file permissions. (The game won't crash now, but bans won't be saved to file until you fix the problem with permissions.)
+    - Fixed loading transfer bans when loading career saves multiple times.
+
 v22.1.1.3:
     - Added Transfer Ban System.
     - Added LUA functions:
