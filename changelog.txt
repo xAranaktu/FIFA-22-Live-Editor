@@ -1,3 +1,12 @@
+v22.1.1.7:
+    - Added match-fixing for single fixtures.
+    - Added Home & Away standings.
+    - Added option to edit goals for, goals against, wins, draws and losses in standings.
+    - Fixed problem with reverting attributes for some players in manager career mode.
+
+v22.1.1.6:
+    - Fixed game crashes that were occurring when loading preseason tournaments standings.
+
 v22.1.1.5:
     - Added to "Teams Editor":
         - "Standings"
