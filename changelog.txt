@@ -1,3 +1,11 @@
+v22.1.1.8:
+    - Added names for a lot of IDs in Players Editor (Thanks Chlipi667!)
+    - Fixed:
+        - editing player goals scored, assists & clean sheets
+        - names of the competitions displayed while editing player stats
+        - jerseysleevelengthcode values in players editor
+        - jerseystylecode for ID 2 ("Dark Brown" -> "Half Tuck")
+
 v22.1.1.7:
     - Added match-fixing for single fixtures.
     - Added Home & Away standings.
