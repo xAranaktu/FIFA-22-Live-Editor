@@ -1,3 +1,10 @@
+v22.1.1.9:
+    - Reworked DirectX hooks. (Hopefully DX12 will be more stable now)
+    - Fixed:
+        - Some File Browser crashes
+        - Crashes in Teams Editor if teamkittypedtechid > 3
+        - Saving alpha channel color in Teams Editor -> teamkits
+
 v22.1.1.8:
     - Added names for a lot of IDs in Players Editor (Thanks Chlipi667!)
     - Fixed:
